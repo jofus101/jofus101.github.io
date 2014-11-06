@@ -18,7 +18,3 @@ author:
 paginate:         5
 
 # Custom vars
-version:          12.0.0
-
-github:
-  repo:           https://github.com/jofus101
