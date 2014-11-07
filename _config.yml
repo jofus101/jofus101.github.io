@@ -17,4 +17,6 @@ author:
 
 paginate:         5
 
+timezone:         America/New_York
+
 # Custom vars
