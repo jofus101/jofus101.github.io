@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 lessons I learned from failing my startup
+title: Three lessons I learned from failing my startup
 ---
 
 Triage
