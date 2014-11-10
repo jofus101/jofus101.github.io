@@ -14,17 +14,17 @@ My real advice any readers of this is the same that I tell my students; be ok ma
 You’ll learn more from cleaning up your mess than you ever would by following someone’s guide to perfection.  
 
 Now without further ado:
-* [Pick something you believe in (believe in your product)](#believe)
-* Use data to drive decisions
-* Find your audience
-* Be fearless, let the world tell you no
-* Set goals and meet them or figure out why you didn’t
-* Accept your mistakes and move on
-* Make decisions and execute
+- [Pick something you believe in (believe in your product)](#believe)
+- Use data to drive decisions
+- Find your audience
+- Be fearless, let the world tell you no
+- Set goals and meet them or figure out why you didn’t
+- Accept your mistakes and move on
+- Make decisions and execute
 
-<div id="believe">
+<span id="believe">
 ###Believe in your product
-</div>
+</span>
 It was tempting to jump at the first great idea that we had.  I had just quit my job at Microsoft and I wanted to move, and move quickly.  As a result my co-founder and I started moving on Bandpass as an idea before I had really started to believe in it as a product that the world needed.  By not being fully confident about Bandpass I crippled my ability to sell it, and I spent time worrying about the idea that should have been spent working on the product.  
 This might be the most important thing about starting a company.  There are going to be plenty of situations where the necessary action for your company is personally difficult or you’ll have to convince people that what you are working on is essential.  I found it difficult to do this for Bandpass, since I never really believed in the core elements of the project.  It just took me months to admit that to myself and even longer to admit it openly to my co-founder.
 
