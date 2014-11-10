@@ -14,6 +14,7 @@ My real advice any readers of this is the same that I tell my students; be ok ma
 You’ll learn more from cleaning up your mess than you ever would by following someone’s guide to perfection.  
 
 Now without further ado:
+
 - [Pick something you believe in (believe in your product)](#believe)
 - Use data to drive decisions
 - Find your audience
