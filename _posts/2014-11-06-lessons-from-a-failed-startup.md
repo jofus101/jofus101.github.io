@@ -32,18 +32,16 @@ This might be the most important thing about starting a company.  There are goin
 
 > “You don’t ask… You don’t get” 
 
-Starting a company requires you to put yourself out there in many significant and often uncomfortable ways.  I don't particularly like selling, interviewing strangers in coffee shops, or pitching. Ideally we would make an amazing product, people would recognize the genius of the idea, and sales would skyrocket.  We all know thats not how it works though. 
+Starting a company requires you to put yourself out there in many significant and often uncomfortable ways.  I don't particularly like selling, interviewing strangers in coffee shops, or pitching. Ideally, we would make an amazing product, people would recognize the genius of the idea, and sales would skyrocket.  We all know thats not how it works though. 
 
-You need to sell your idea (which starts to feel like yourself) to your customers, your investors, your peers, and everyone else along the way.  In the face of this constant scrutiny I found myself making excuses not to sell, not to put myself out there.  I started saying "no" for people as a defense mechanism. I would reason why this person wasn’t going to like it, or why that investor wouldn’t fund it, and instead of putting myself out there and letting the world tell me no, I didn’t ask. This behavior is comfortable, easy, and unacceptable if you want to change your life or company.  
+You need to sell your idea (which starts to feel like yourself) to your customers, your investors, your peers, your employees, and everyone else along the way.  In the face of this constant scrutiny I found myself making excuses not to sell, not to put myself out there.  I started saying "no" for people as a defense mechanism. I would reason why this person wasn’t going to like it, or why that investor wouldn’t fund it, and instead of putting myself out there and letting the world tell me no, I didn’t ask. This behavior is comfortable, easy, and unacceptable if you want to change your life or company.  
 
 Get out there and let the world tell you "no".
 
 
 ###Use data to drive decisions
 
-I can’t stress enough how important it is to know how your company is doing.  For Bandpass we spent the first couple months working with google analytics looking at page views.  This is fine for a landing page, but we had a prototype out there and didn’t have any visibility about how people were using it.  Ultimately the opacity of our prototype was demoralizing and hampered our ability to know what to work on with confidence.  
-
-Build analytics into your product from day one, and make actionable goals that you can strive for based on those analytics. We needed a detailed view of who our customer was and how they were using our site.  What buttons were they pressing, what feature did we think was great that no one even saw?  Anything really.  And the effect of not tracking wasn’t just an opaque userbase, but it was also demoralizing for us.  We couldn’t move forward with confidence that our last release, or latest bug fix, was actually helping the users of our site.  
+Build analytics into your product from day one, and make actionable goals based on those analytics. We needed a detailed view of who our customer was and how they were using our site.  What buttons were they pressing+ Were they even looking at the great new feature? Were they saving progress and returning to our site? Ultimately the opacity of our prototype was demoralizing and hampered our ability to know what to work on with confidence. We couldn’t move forward with confidence that our last release, or latest bug fix, was actually helping the users of our site.  
 
 
 ###Set goals
