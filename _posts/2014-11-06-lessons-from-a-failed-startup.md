@@ -6,13 +6,7 @@ title: Lessons I learned from failing my startup
 Triage
 ------
 
-I started a Bandpass with a co-founder in January.  Nine months later we decided to end it.  Looking back over my experience as a first time founder, these are some of the lessons that I’ve learned.
-
-None of these lessons are groundbreaking revelations. I had heard about every single one of these pitfalls before starting Bandpass. Despite “knowing” about these obstacles, I still stumbled over them.  Sometimes reading words doesn’t really translate to actionable behaviors until you experience it for yourself.  I reiterate these lessons with a little bit of coloring from my own experiences, both to solidify the lessons for myself, and to potentially help someone else.
-
-My real advice is the same that I tell anyone learning a new skill; *be ok making mistakes; be ok sucking. You’ll learn more from cleaning up your mess than you ever would by following someone’s guide to perfection.*
-
-Now without further ado:
+I started Bandpass with a co-founder in January.  Nine months later we decided to end it.  Looking back over my experience as a first time founder, these are some of the lessons that I’ve learned.
 
 - Believe in your product
 - Be fearless, let the world tell you "no"
@@ -62,3 +56,9 @@ Bandpass lacked a detailed view of who our customer was and how they were using 
 ###Execute
 
 Setting goals and being able to meausure them is essential for one thing: *execution*. Don’t overthink your problems. Think about your goals and the data you can collect and execute.  Don’t spend to much time going over the pro’s and con’s of any one choice. Make a choice, make it work, and then reevaluate at some point in the future.  Even if you make the wrong choice you’ll be much better informed for the next round of work. As Voltaire famously said, "Don't let perfect be the enemy of good."
+
+---
+
+None of these lessons are groundbreaking revelations. I had heard about every single one of these pitfalls before starting Bandpass. Despite “knowing” about these obstacles, I still stumbled over them.  Sometimes reading words doesn’t really translate to actionable behaviors until you experience it for yourself.  I reiterate these lessons with a little bit of coloring from my own experiences, both to solidify the lessons for myself, and to potentially help someone else.
+
+My real advice is the same that I tell anyone learning a new skill; *be ok making mistakes; be ok sucking. You’ll learn more from cleaning up your mess than you ever would by following someone’s guide to perfection.*
