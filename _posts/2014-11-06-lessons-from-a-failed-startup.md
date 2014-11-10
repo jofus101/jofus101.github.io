@@ -4,7 +4,7 @@ title: Lessons I learned from failing my startup
 ---
 
 Triage
-------
+====
 
 I started a Bandpass with a co-founder in January.  By mid-October, we decided to end it.  Looking back over my experience as a first time founder, these are some of the lessons that I’ve learned.
 
@@ -16,10 +16,11 @@ Now without further ado:
 
 - Believe in your product
 - Be fearless, let the world tell you "no"
-- Get Data, Set Goals, Execute
+- Set Goals, Get Data, Execute
 
 
-###Believe in your product
+Believe in your product
+-------------------
 
 It was tempting to jump at the first great idea that we had.  I had just quit my job at Microsoft and I wanted to move, and move quickly.  As a result my co-founder and I started moving on Bandpass as an idea before I had really started to believe in it as a product that the world needed.  By not being fully confident about Bandpass I crippled my ability to sell it, and I spent time worrying about the idea that should have been spent working on the product.
 
@@ -37,16 +38,18 @@ You need to sell your idea (which starts to feel like yourself) to your customer
 Get out there and let the world tell you "no".
 
 
-###Get Data, Set Goals, Execute
+###Set Goals, Get Data, Execute
 
-####Get Data
+These three steps are the core of a creating anything.  
+
+###Get Data
 
 Build analytics into your product from day one, and make actionable goals based on those analytics. We needed a detailed view of who our customer was and how they were using our site.  What buttons were they pressing? Were they even looking at the great new feature? Were users saving progress and returning to our site? 
 
 Ultimately the opacity of our prototype was demoralizing and hampered our ability to progress quickly with measured steps. We couldn’t move forward with confidence that our last release, or latest bug fix, was actually helping the users of our site.
 
 
-####Set goals
+###Set goals
 
 Goals allow you to track and anticipate progress. 
 
@@ -55,7 +58,7 @@ The lack of good data for Bandpass translated to an inability to set clear goals
 Another issue with our working style was a lack of clear goals during the development process.  Often it came from an inability to identify the singular most important next step, so we would have a bunch of things going on at once and make progress on a bunch of them simultaneously.  This way when I slipped one deadline we could point to some other element of the business and say we were working on that.  This didn’t work for us.  What we’ve started to do is have much more granular and limited weekly goals, that build up to a large monthly or quarterly goals.  By holding myself accountable to these goals, I’m able to get more discrete tasks done and I generally feel better having checked them off my list.  
 
 
-####Decide and execute
+###Decide and execute
 
 There was definitely fear of picking the wrong task that held me back from committing to them while working on bandpass, when in reality I would at most lose 2 or 3 days of work and would definitely learn something from committing to completion of a task
 
