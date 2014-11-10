@@ -6,12 +6,11 @@ title: Lessons I learned from failing my startup
 Triage
 ------
 
-I started a Bandpass with a co-founder in January.  By mid-October, we decided that it wasn’t right and decided to end it.  Looking back over my experience as a first time founder, these are some of the lessons that I’ve learned.
-None of these topics are new.  I read or heard about every single one of these pitfalls before Bandpass. Despite “knowing” about these obstacles, I still stumbled over them.  Sometimes reading words doesn’t really translate to actionable behaviors until you experience it for yourself.  I reiterate these lessons with a little bit of coloring from my own experiences, both to solidify the lessons for myself, and to maybe help someone.
+I started a Bandpass with a co-founder in January.  By mid-October, we decided to end it.  Looking back over my experience as a first time founder, these are some of the lessons that I’ve learned.
 
-My real advice any readers of this is the same that I tell my students; be ok making mistakes; be ok sucking.  
+None of these lessons are groundbreaking revelations. I had heard about every single one of these pitfalls before starting Bandpass. Despite “knowing” about these obstacles, I still stumbled over them.  Sometimes reading words doesn’t really translate to actionable behaviors until you experience it for yourself.  I reiterate these lessons with a little bit of coloring from my own experiences, both to solidify the lessons for myself, and to potentially help someone else.
 
-You’ll learn more from cleaning up your mess than you ever would by following someone’s guide to perfection.  
+My real advice is the same that I tell anyone learning a new skill; *be ok making mistakes; be ok sucking. You’ll learn more from cleaning up your mess than you ever would by following someone’s guide to perfection.*  
 
 Now without further ado:
 
