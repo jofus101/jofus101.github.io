@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beginning: why write?
+title: A Beginning
 ---
 
 Hey All,
