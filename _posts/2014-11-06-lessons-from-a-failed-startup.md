@@ -16,9 +16,7 @@ Now without further ado:
 
 - Believe in your product
 - Be fearless, let the world tell you "no"
-- Use data to drive decisions
-- Set goals and meet them or figure out why you didn’t
-- Make decisions and execute
+- Get Data, Set Goals, Execute
 
 
 ###Believe in your product
@@ -39,19 +37,28 @@ You need to sell your idea (which starts to feel like yourself) to your customer
 Get out there and let the world tell you "no".
 
 
-###Use data to drive decisions
+###Get Data, Set Goals, Execute
 
-Build analytics into your product from day one, and make actionable goals based on those analytics. We needed a detailed view of who our customer was and how they were using our site.  What buttons were they pressing+ Were they even looking at the great new feature? Were they saving progress and returning to our site? Ultimately the opacity of our prototype was demoralizing and hampered our ability to know what to work on with confidence. We couldn’t move forward with confidence that our last release, or latest bug fix, was actually helping the users of our site.  
+####Get Data
+
+Build analytics into your product from day one, and make actionable goals based on those analytics. We needed a detailed view of who our customer was and how they were using our site.  What buttons were they pressing? Were they even looking at the great new feature? Were users saving progress and returning to our site? 
+
+Ultimately the opacity of our prototype was demoralizing and hampered our ability to progress quickly with measured steps. We couldn’t move forward with confidence that our last release, or latest bug fix, was actually helping the users of our site.
 
 
-###Set goals
+####Set goals
+
+Goals allow you to track and anticipate progress. 
+
+The lack of good data for Bandpass translated to an inability to set clear goals, or the lack of clear goals hampered our data collection.  These two points are closely
 
 Another issue with our working style was a lack of clear goals during the development process.  Often it came from an inability to identify the singular most important next step, so we would have a bunch of things going on at once and make progress on a bunch of them simultaneously.  This way when I slipped one deadline we could point to some other element of the business and say we were working on that.  This didn’t work for us.  What we’ve started to do is have much more granular and limited weekly goals, that build up to a large monthly or quarterly goals.  By holding myself accountable to these goals, I’m able to get more discrete tasks done and I generally feel better having checked them off my list.  
 
-There was definitely fear of picking thewrong task that held me backfrom committing to them while working on bandpass, when in reality I would at most lose 2 or 3 days of work and would definitely learn something from committing to completion of a task
 
+####Decide and execute
 
-###Decide and execute
+There was definitely fear of picking the wrong task that held me back from committing to them while working on bandpass, when in reality I would at most lose 2 or 3 days of work and would definitely learn something from committing to completion of a task
+
 
 This goes hand in hand with the goals that you need to set. Don’t overthink your problems.  Make decisions and execute based on them.  Don’t spend to much time going over the pro’s and con’s of a choice, whether it be what technology to work with or what to do next.  Pick one, make it work, and then reevaluate at some point in the future.  Once again, even if you make the wrong choice you’ll be much better informed for the next round of work.
 
