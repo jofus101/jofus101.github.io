@@ -6,7 +6,7 @@ title: Lessons I learned from failing my startup
 Triage
 ------
 
-I started Bandpass with a co-founder in January.  Nine months later we decided to end it.  Looking back over my experience as a first time founder, these are some of the lessons that I’ve learned.
+I started [Bandpass] with a co-founder in January.  Nine months later we decided to end it.  Looking back over my experience as a first time founder, these are some of the lessons that I’ve learned.
 
 - Believe in your product
 - Be fearless, let the world tell you "no"
@@ -16,7 +16,7 @@ I started Bandpass with a co-founder in January.  Nine months later we decided t
 Believe in your product
 -----------------------
 
-This might be the most important thing about starting a company. It was tempting to jump at the first great idea that we had. I had just quit my job at Microsoft and I wanted to return to the stability of work as soon as possible. As a result, I ignored some foundational doubts I had about Bandpass. It took me months to give the doubts that I had the credence they deserved. My lack of confidence crippled my ability to dive into my work.
+This might be the most important thing about starting a company. It was tempting to jump at the first great idea that we had. I had just quit my job at Microsoft and I wanted to return to the stability of work as soon as possible. As a result, I ignored some foundational doubts I had about [Bandpass]. It took me months to give the doubts that I had the credence they deserved. My lack of confidence crippled my ability to dive into my work.
 
 
 Be fearless, let the world tell you "no"
@@ -34,7 +34,7 @@ Get out there and let the world tell you "no".
 Set Goals, Get Data, Execute
 ----------------------------
 
-These three steps are critical to company building. I believed in these steps intellectually when starting Bandpass, but there were many times when I wasn't able (or was afraid) to apply them.
+These three steps are critical to company building. I believed in these steps intellectually when starting [Bandpass], but there were many times when I wasn't able (or was afraid) to apply them.
 
 >Set clear goals, find ways to measure progress towards them, and execute to achieve them. 
 
@@ -48,7 +48,7 @@ Goals allow you to track and anticipate progress. Not having clear goals meant t
 
 Build analytics into your product from day one. The data you gather should allow you to determine *if* you are meeting your goals.  Analyzing that data should show *how* you're succeeding or failing, and what you can change. 
 
-Bandpass lacked a detailed view of who our customer was and how they were using our site.  What buttons were they pressing? Were they even looking at the great new feature? Were users saving progress and returning to our site? Ultimately the opacity of our Bandpass data was demoralizing and hampered our ability to progress quickly with measured steps. We couldn’t move forward with confidence that our last release, or latest bug fix, was actually helping the users of our site.
+[Bandpass] lacked a detailed view of who our customer was and how they were using our site.  What buttons were they pressing? Were they even looking at the great new feature? Were users saving progress and returning to our site? Ultimately the opacity of our [Bandpass] data was demoralizing and hampered our ability to progress quickly with measured steps. We couldn’t move forward with confidence that our last release, or latest bug fix, was actually helping the users of our site.
 
 
 ###Execute
@@ -57,6 +57,8 @@ Setting goals and being able to meausure them is essential for one thing: *execu
 
 ---
 
-None of these lessons are groundbreaking revelations. I had heard about every single one of these pitfalls before starting Bandpass. Despite being aware of this advice, I still stumbled in the practice of it. Sometimes reading words doesn’t really translate to actionable behaviors until you experience it for yourself.  I reiterate these lessons with a little bit of coloring from my own experiences, both to solidify them for myself, and to potentially help someone else.
+None of these lessons are groundbreaking revelations. I had heard about every single one of these pitfalls before starting [Bandpass]. Despite being aware of this advice, I still stumbled in the practice of it. Sometimes reading words doesn’t really translate to actionable behaviors until you experience it for yourself.  I reiterate these lessons with a little bit of coloring from my own experiences, both to solidify them for myself, and to potentially help someone else.
 
 My real advice is the same that I tell anyone learning a new skill; be ok sucking. You’ll learn more from cleaning up your mess than you ever would by following someone’s guide to perfection.
+
+[bandpass]: http://bandpass.fm
