@@ -1,0 +1,9 @@
+.img-circle {
+  border-radius: 50%;
+}
+
+.sidebar img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
