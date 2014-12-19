@@ -2,6 +2,31 @@
   border-radius: 50%;
 }
 
+.img-crop {
+  height: 250px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.center-cropped {
+  object-fit: none; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  height: 100px;  
+}
+
+.crop{
+    height: 200px;
+    width: 100%; 
+    overflow: hidden;    
+}
+
+.inner-crop {
+  width: 
+  background-size: 750px 100%;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+
 .sidebar img {
   display: block;
   margin-left: auto;
