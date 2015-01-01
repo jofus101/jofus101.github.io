@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Failing Resolutions
-image: palo-alto.jpg
+image: bk-bridge.jpg
 ---
 
 So... maybe making a resolution to write 250 words a day wasn't the best project to start right before Christmas and New Years. I can see that now.  But, this slow start demonstrates a truth about almost any resolution.
