@@ -4,8 +4,6 @@ title: Be Ok Sucking
 image: sucking.gif
 ---
 
-http://33.media.tumblr.com/tumblr_mbjfbwVzvW1rbavngo1_500.gif
-
 I like to learn.  I've been taught a ton of stuff and taught myself some more, and my most helpful advice to anyone trying to learn something is 
 
 > *Be ok sucking*
