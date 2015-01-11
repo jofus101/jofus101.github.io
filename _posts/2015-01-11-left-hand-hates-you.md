@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your left hand hates you
+image: hand.jpg
 ---
 
 To my dismay, I've noticed that my left hand hates me. It doesn't seem to be a personal vendetta, but my left hand is recalcitrant, clumsy, and generally uncooperative. I've tried finding the source of it's discontent and have come up with nothing. It could be the years that it has spent merely holding the paper while my right hand had the glorious task of writing, drawing, or doodling.  It could be that it always wanted to throw a baseball instead of merely catch one (I honestly gave it a chance... but it can't throw for the life of it). Or maybe my right hand has just been talking shit and my left hand is done.
