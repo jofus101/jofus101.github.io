@@ -1,6 +1,7 @@
 ---
 layout: post
 title: If you're any good, you'll make another
+image: pottery.jpg
 ---
 
 One of the best lessons I was ever learned was taught with the destruction of beauty.  My ceramics teacher at the time, [Jared Ward](https://twitter.com/ceramicsissweet), had a beautiful teapot in his hands. It had a minor flaw that only he could find and he asked the class a question. “So what do you do with a pot like this?” Jared, my instructor, asked the class.  Repeating an oft-said phrase from the studio, I replied, 
