@@ -12,4 +12,6 @@ It felt like being in the middle of the ocean with multiple goals all around me 
 
 Then I graduated and got a job.
 
-I don't know if it was exhaustion from 4 years of running around, or the impression that I was supposed to exclusively pursue a career, but I stopped swimming in all directions. I felt as if I had so many potential options, none of which had a clear college-like path, that to swim towards any goal meant I would be farther away from the rest of them. 
+I don't know if it was exhaustion from 4 years of running around, or the impression that as an *adult* I was supposed to exclusively pursue a career, but I stopped swimming in all directions. I felt as if I had so many potential options, none of which had a clear college-like path, that to swim towards any goal meant I would be farther away from the rest of them. This was paralyzing to my newly graduated and freed self. What if I chose the wrong direction? I couldn't see a clear path in any direction so how was I to choose?
+
+Around the new 
