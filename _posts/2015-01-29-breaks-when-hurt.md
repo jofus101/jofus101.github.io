@@ -8,9 +8,9 @@ I'm sick. It sucks. I consider this my winter sickness, and I know it'll pass in
 
 As a child (and up until fairly recently) I assumed that if I ignored something it didn't exist. 
 
-> Did I wake up with that tingle in my throat that means I'll be swallowing jagged knives for the next couple days? 
-> Is my finger feeling vaguely weak and tweaky while climbing? 
-> Are my knees popping during Capoeira?  
+* Did I wake up with that tingle in my throat that means I'll be swallowing jagged knives for the next couple days? 
+* Is my finger feeling vaguely weak and tweaky while climbing? 
+* Are my knees popping during Capoeira?  
 
 If I ignore those feelings, and keep pushing at my busy day or keep climbing, I'll be fine. My body will finally get that I don't have the time or patience for it's crap and get it's act together. Right?
 
