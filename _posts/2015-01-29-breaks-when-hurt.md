@@ -20,4 +20,4 @@ I'm not sure if age or wisdom plays a part (unlikely), but I've started to allow
 
 And listen to your needs in all things. I'll try to get back to this in a later post, but there are times when you need to rest your mind, body, or spirit. That might mean seeing friends over work, or working over friends, or just sitting alone in a dark room.
 
-You do you boo-boo. Treat yourself.
+You do you boo-boo.
