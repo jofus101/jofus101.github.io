@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Angry people are sad people
+image: colin.jpg
 ---
 
 People can be difficult. It's inevitable that you'll run into crappy people while doing your thing, and it'll be hard not to take their bad behavior to heart. 
