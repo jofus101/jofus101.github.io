@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Results of deliberate practice and forming habits
-image: hand.jpg
+image: coffee.jpg
 ---
 
 I wrote about [deliberate practice]({% post_url 2014-12-19-deliberate-practice %}) about two months ago and I'd like to share how it's going and how it has evolved in my life.
