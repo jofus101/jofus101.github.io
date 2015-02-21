@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Productivity tips
-image: hand.jpg
+image: table.jpg
 ---
 
 For a long time (read: up until very recently), I was very defensive about my way of doing things. Not intentionally defensive, but I wasn't interested in looking at my behavior and challenging it with new ways of getting things done. It's easier to continue on a set path than to mess around with your routines without a guarantee of gain at the end. 
