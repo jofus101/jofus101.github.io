@@ -8,7 +8,7 @@ So... maybe making a resolution to write 250 words a day wasn't the best project
 
 *You will break it*
 
-I'm not hating on your willpower or the quality of your resolutions, but lets be honest at some point in the future (which is a very long time) you'll most likely break your resolution. If you committed to better eating, you'll probably have a donut, not smoking - cigarette, exercise daily - you'll miss a day.  Whatever it is, it doesn't really matter.
+I'm not hating on your willpower or the quality of your resolutions, but let's be honest at some point in the future (which is a very long time) you'll most likely break your resolution. If you committed to better eating, you'll probably have a donut, not smoking - cigarette, exercise daily - you'll miss a day.  Whatever it is, it doesn't really matter.
 
 The key is what you do afterwards.
 

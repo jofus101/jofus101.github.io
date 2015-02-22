@@ -12,7 +12,7 @@ As a child (and up until fairly recently) I assumed that if I ignored something 
 * Is my finger feeling vaguely weak and tweaky while climbing? 
 * Are my knees popping during Capoeira?  
 
-If I ignore those feelings, and keep pushing at my busy day or keep climbing, I'll be fine. My body will finally get that I don't have the time or patience for it's crap and get it's act together. Right?
+If I ignore those feelings, and keep pushing at my busy day or keep climbing, I'll be fine. My body will finally get that I don't have the time or patience for its crap and get its act together. Right?
 
 If only it worked like that. 
 

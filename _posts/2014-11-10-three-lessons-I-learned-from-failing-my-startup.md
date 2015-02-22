@@ -53,7 +53,7 @@ Build analytics into your product from day one. The data you gather should allow
 
 ###Execute
 
-Setting goals and being able to meausure them is essential for one thing: *execution*. Don’t overthink your problems. Think about your goals, the data you can collect, and how that informs your execute.  Don’t spend to much time going over the pro’s and con’s of any one choice. Make a choice, make it work, and then reevaluate at some point in the future.  Even if you make the wrong choice you’ll be much better informed for the next round of work. As Voltaire famously said, "Don't let perfect be the enemy of good."
+Setting goals and being able to meausure them is essential for one thing: *execution*. Don’t overthink your problems. Think about your goals, the data you can collect, and how that informs your execution.  Don’t spend to much time going over the pro’s and con’s of any one choice. Make a choice, make it work, and then reevaluate at some point in the future.  Even if you make the wrong choice you’ll be much better informed for the next round of work. As Voltaire famously said, "Don't let perfect be the enemy of good."
 
 ---
 
