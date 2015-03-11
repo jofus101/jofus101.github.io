@@ -1,0 +1,1 @@
+Personal responsibility at burning man, No litter, vs here where everyone assumes someone else will deal with it.  How contagious that feeling is.  
