@@ -4,6 +4,8 @@ title: Why teach
 image: hand.jpg
 ---
 
+I thought these were an interesting set of application questions, so I've decided to post my answers for your edification :).
+
 > Why are you applying to The Flatiron School Pre-College Summer Academy Teaching Fellowship? (<300 words recommended) *
 
 My Coordinator at Scripted, Becca Novak, recommended the program to me and I'm interested for a number of reasons. I've been teaching with Scripted for most of this year and I really enjoy it. I've taught a number of different topics over the years from pottery and glassblowing, to dance, to computer science. There's something about the successful transmission of information that is exhilarating. 
