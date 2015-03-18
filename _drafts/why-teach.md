@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why teach
-image: hand.jpg
+title: Why teach, Flatiron application
+image: sparkle.jpg
 ---
 
 I thought these were an interesting set of application questions, so I've decided to post my answers for your edification :).
