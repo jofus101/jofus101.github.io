@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Comparing journeys
-image: sucking.gif
+image: grand-central.jpg
 ---
 
 Don't compare your journey to someone else's
