@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Friends for a time and place
-image: palo-alto.jpg
+image: friends-field.jpg
 ---
 
 > Friendships/Relationships have a time and a place
