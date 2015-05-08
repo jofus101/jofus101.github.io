@@ -13,5 +13,3 @@ However, attempting to visualize every element of a possible future life and how
 I have learned more about my goals and desires in the past 2 years of [failing]({% post_url 2014-11-10-three-lessons-I-learned-from-failing-my-startup %}) than I have at any other point in my life. I would never know what I know now if I had simply tried to imagine my future life.
 
 So I encourage you to go out and fail. You get to decide what kind of life you live. In life, as in love, if it's not a resounding [fuck yes, it's a no](http://markmanson.net/fuck-yes).
-
-Lighten your life and take comfort in the fact that we're all gonna die, it helps with the inertia.
