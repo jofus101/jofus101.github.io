@@ -17,4 +17,4 @@ That's how it should be.
 
 It's natural for a relationship to be born from a specific setting, and it's natural that it might not survive outside of that setting. The fact that it hasn't actively survived all of life's changes doesn't lessen it's significance.
 
-I try not to worry if the nature of a current relationship changes or fades. What it was is worthy of my respect and appreciation, and you never know when an old relationship my flourish again in new setting.
+I try not to worry if the nature of a current relationship changes or fades. What it was is worthy of my respect and appreciation, and you never know when an old relationship may flourish again in new setting.
