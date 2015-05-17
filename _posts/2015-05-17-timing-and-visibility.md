@@ -10,6 +10,6 @@ Timing. I need to schedule time to write.  Full stop.  Things have been a little
 
 Visibility. I have historically not really enjoyed being public with my thoughts and actions, and I don't think I'm unique in this regard. Anytime I speak, write, or perform it places me in a position where my inner workings feel more exposed. Now, logically, I'm pretty confident that no one really cares enough about what I'm writing here to make an issue, and more importantly, anyone who would start something negative over what I've written here isn't really worth my time. So there's that. But it still tickles.
 
-On an visibility related note, I think a post on *Nerdiness* is in order. There's beauty in owning up to the things you love, and discord in keeping the things you love hidden in an attempt to fit it. 
+On an visibility related note, I think a post on *Nerdiness* is in order. There's beauty in owning up to the things you love, and discord in keeping the things you love hidden in an attempt to fit in. 
 
 Ice broken. Joseph out.
