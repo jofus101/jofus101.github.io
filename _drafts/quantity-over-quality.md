@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quantity over Quality
-image: 
+image: bamboo.jpg
 ---
 
 In my most recent post I wrote about [timing]({% post_url 2015-05-17-timing-and-visibility %}) and putting myself on a regular schedule to keep my writing on track. I received this valuable feedback from a good friend:
