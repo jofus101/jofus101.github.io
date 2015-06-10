@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Teaching Teaching
-image: bk-bridge.jpg
+image: flatiron.jpg
 ---
 
 I just had the pleasure of finishing a weeklong bootcamp with the [Flatiron School](http://flatironschool.com/) and I'd like to take a moment and reflect on what I learned about teaching from the example of my excellent peers.
