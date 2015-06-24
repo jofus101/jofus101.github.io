@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solve Problems
-image: 
+image: cliff_yoga.jpg
 ---
 
 When I started working at Microsoft, almost five years ago now (!), I remember early career meetings with my manager at the time. God bless his patience. I was fresh out of college and, up until graduation, success and the problems I was required to solve had been clearly defined. Make this sculpture, write this paper, write a compiler. I was very good at execution and terrible at defining intermediate tasks. My conversations with my manager usually consisted of him asking what I wanted to do and where I wanted to go with my career. I had no conception at the time, and mentioned something about coding my features and fixing bugs. No self direction and a pain in the ass for my manager.
