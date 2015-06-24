@@ -10,4 +10,4 @@ I thought that I was an asset at the time. I was a competent coder and I was a r
 
 Then came startup life. I no longer had a manager. I no longer had someone to tell me what problems to solve and how to go about doing that. I needed to identify problems, diagnose them, design a solution, and execute. It took me about a year to figure out how to do that efficiently. By that time though we ran out of money and the startup quietly failed. However, I did learn how to solve problems, and in my recent adventure as an Education Consultant I'm seeing how valuable that can be to the people around me.
 
-tl;dr; Don't ask people what you should be doing. You're smart. Ask what their problems are, figure out how to solve them, and do it.
+tl;dr; Don't ask people what you should be doing. You're smart. Ask about their problems, figure out how to solve them, and do it.
