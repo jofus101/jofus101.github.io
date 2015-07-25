@@ -3,12 +3,13 @@ layout: page
 title: Resume
 ---
 
+<div id="resume" markdown="1">
 ## **Flatiron School** - Educational Consultant
 *2015 - Present*
 
 + Developed Computer Science curriculum focused on Python for use with Google's CSSI program by 150 students across 5 cities
 + Developed Computer Science curriculum focused on Ruby and Front End technologies for use with Flatiron School's summer precollege program used by over 600 students across 10 cities
-+ Coordinated a team of 5 consultants to provide training and support to Google engineers as teachers
++ Coordinated a team of 5 Flatiron consultants to provide training and support to Google engineers as teachers
 
 ## **Bandpass.fm** - Founder
 *2014 - 2015*
@@ -37,12 +38,14 @@ title: Resume
 
 # Education
 
-+ Washington University in St. Louis, St. Louis, MO
-+ Graduated 2010
-+ *BS in Computer Science, BFA in Sculpture*
+## Washington University in St. Louis - *2010*
++ Bachelors of Science in Computer Science
++ Bachelors of Fine Arts in Sculpture
 
 ## Tech
 + Python, Rails, C++, C#, XAML, Ruby, JS, JQuery, Gulp, Git, Haml, Sass, Processing
 
 ## Interests
 + Pottery, Glassblowing, Sculpture, Drawing, DJing, Fire spinning, Kitesurfing, Climbing, Capoeira, Cooking, Clarinet, Yoga, Uncle-ing, Dancing
+
+</div>
