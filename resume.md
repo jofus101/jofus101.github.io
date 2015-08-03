@@ -10,13 +10,13 @@ title: Resume
 + Developed Computer Science curriculum focused on Ruby and Front End technologies for use with Flatiron School's summer precollege program used by over 600 students across 10 cities
 + Coordinated a team of 5 Flatiron consultants to provide training and support to over 150 Google engineers as teachers and TA's
 + Developed Computer Science curriculum focused on Python for use with Google's CSSI program by 150 students across 5 cities
-+ Co-taught Google's CSSI program while supporting engineer teachers in-class, facilitating team-building activities for students, and providing critical feedback to teachers and administrators
++ Co-taught Google's CSSI program while supporting engineer teachers in-class, leading technical content reviews, facilitating team-building activities for students, and providing critical feedback to teachers and administrators
 
 ## **Teacher** – ScriptEd
 *2014 - Present*
 
 + Volunteered to teach Web Development (HTML, CSS, Javascript) at Brooklyn International High School
-+ Designed lesson plans that effectively break down complex computer science principles into quanta appropriate for high school students
++ Created lesson plans that effectively break down complex computer science principles into quanta appropriate for high school students
 
 ## **Founder** - Bandpass.fm
 *2014 - 2015*
