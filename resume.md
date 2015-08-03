@@ -42,7 +42,7 @@ title: Resume
 
 ## Skills & Interests
 
-+ Python, C#, Rails, Ruby, Git, C++, XAML, JS, JQuery, Gulp, Haml, Sass, Processing
++ Python, C#, Rails, Ruby, Git, C++, XAML, JS, JQuery, Gulp, Haml, Sass
 + Pottery, Glassblowing, Sculpture, Drawing, DJing, Fire spinning, Kitesurfing, Climbing, Capoeira, Cooking, Clarinet, Yoga, Uncle-ing, Dancing
 
 </div>
