@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It will be
-image:
+image: butterfly.jpg
 ---
 
 It will be.
