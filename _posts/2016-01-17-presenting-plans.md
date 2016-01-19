@@ -6,7 +6,7 @@ image: path.jpg
 
 Starting at a larger company after working with and for startups has created an interesting perspective on getting things done. One element, that I'll lay out here, is about showing up to meetings with a plan prepared so the other team simply has to say, "Yes".
 
-All to often, I've been to meetings designed to generate a plan, when one or both groups had enough information to create one independently. It is way more efficient to simply present a proposal of how to move forward, ask the other group if they can meet your needs, ask for feedback, and iterate if there is an unforeseen issue with your plan.  
+All too often, I've been to meetings designed to generate a plan, when one or both groups had enough information to create one independently. It is way more efficient to simply present a proposal of how to move forward, ask the other group if they can meet your needs, ask for feedback, and iterate if there is an unforeseen issue with your plan.  
 
 This can work both ways for even better decision making. Both parties could present plans that they believe would succeed while detailing the pros and cons of their own plans. Then, they could combine them to mitigate the weak spots of individual plans.  
 
