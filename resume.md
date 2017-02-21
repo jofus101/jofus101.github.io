@@ -70,7 +70,7 @@ title: Resume
 
 ## Skills & Interests
 
-+ Python, C#, Rails, Ruby, Git, C++, XAML, JS, JQuery, Gulp, Haml, Sass
-+ Pottery, Glassblowing, Sculpture, Drawing, DJing, Fire spinning, Kitesurfing, Climbing, Capoeira, Cooking, Clarinet, Yoga, Uncle-ing, Dancing
++ Team Management, UX Design, Agile Development, Scrum, JIRA, Pivotal Tracker, Python, Rails, C++, C#, XAML, Ruby, JS, JQuery, Gulp, Git, Haml, Sass
++ Pottery, Glassblowing, Sculpture, Drawing, DJing, Fire spinning, Kitesurfing, Climbing, Capoeira, Cooking, Clarinet, Yoga, Uncle-ing, Dancing, Chess, Biking, Piano
 
 </div>
